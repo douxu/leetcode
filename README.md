@@ -1,0 +1,2 @@
+# leetcode
+code practice record
